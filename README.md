@@ -8,3 +8,5 @@ es_extended with double job [org] by AllienceRôleplay
 3) import the SQL of the file into your PHPMyAdmin
 
 And you can take advantage of the double job ! 
+
+feel free to join our discord (french discord) : https://discord.gg/hTxGt4R
